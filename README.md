@@ -98,7 +98,7 @@ ROSで通信する際にいつもメッセージを使っていますよね。�
 さすがに、いきなりメッセージを作るのは難しいと思うので、かなりやりすぎなぐらいサポートします。  
 メッセージを定義するには、ROSのパッケージ作成時に自動で生成されるCMakeLists.txtとpackage.xmlの内容を変更する必要があります。  
 なんですが、今回、このパッケージをご利用のお客様に限り、なんとすでに変更したものを、無料で、無料でご提供いたします！  
-パッケージ内にある[CMakeLists.txt](https://github.com/Hara-kun/ros_stepup_kadai_gempon/blob/main/CMakeLists.txt)と[package.xml](https://github.com/Hara-kun/ros_stepup_kadai_gempon/blob/main/package.xml)がそれになります。  
+パッケージ内にある[CMakeLists.txt](https://github.com/rionehome/ros_stepup_kadai/blob/main/CMakeLists.txt)と[package.xml](https://github.com/rionehome/ros_stepup_kadai/blob/main/package.xml)がそれになります。  
 package.xmlの方は、これ以上変更する必要はありません。すでに、自作のメッセージファイルを読み込む設定になっています。  
 CMakeLists.txtのadd_message_filesに自作したメッセージの名前を、
 ```  
@@ -183,7 +183,7 @@ int16 time
 * 課題1の解答 (未公開)  
 * 課題2の解答 (未公開)  
 * 課題3の解答 (未公開)  
-* 課題4の解答 (未公開)  
+* 課題4の解答 (未制作)  
 * 課題5の解答 (未制作)  
 * 課題6の解答 (未制作)  
 * 課題7の解答 (未制作)  
