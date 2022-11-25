@@ -149,7 +149,7 @@ Ugoki ugoki4
 int16 movement  
 int16 time  
 ```  
-* 基本的なプログラムの動作は、[課題2,3](https://github.com/Hara-kun/ros_stepup_kadai_gempon#課題23-publisherとsubscriberを使ってみよう)と同様とする。必要なら自作したプログラムをコピーして用いてよい。その上で、次の項目を変更しなさい。  
+* 基本的なプログラムの動作は、[課題2,3](https://github.com/rionehome/ros_stepup_kadai#課題23-publisherとsubscriberを使ってみよう)と同様とする。必要なら自作したプログラムをコピーして用いてよい。その上で、次の項目を変更しなさい。  
 
 * トピック名:　`oreno/shijini/shitagae`  
 メッセージの型　`Kangaeruna`  
