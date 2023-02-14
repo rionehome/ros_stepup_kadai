@@ -9,7 +9,7 @@ find_package(catkin REQUIRED COMPONENTS
 
 add_message_files(
 	FILES
-	Sample_msgs.msg
+	Okuha_kataranai.msg
 )
 
 generate_messages(
