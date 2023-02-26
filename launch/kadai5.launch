@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+
+<launch>
+  <node pkg="ros_stepup_kadai" name="kitaini_kotaetemiyo" type="kadai4_pub.py" output="screen" />
+  <node pkg="ros_stepup_kadai" name="shouchi" type="kadai4_sub.py" output="screen" />
+</launch>
